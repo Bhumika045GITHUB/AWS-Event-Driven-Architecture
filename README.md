@@ -29,5 +29,5 @@ Repeat - Connect sqs queue to lambda —-----> here in sqs queue console we have
 8. NOW UPLOAD FILE → GO IN LAMbda1, lam2 check cloudwatch logs to print logs.
 
 9. Finish
-—-----------------
+
 
